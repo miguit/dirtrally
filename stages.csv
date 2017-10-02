@@ -1,0 +1,80 @@
+SS1
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,448814,tohtoris,Fiat 131 Abarth,03:21.275,00:00.000,00:00.000
+2,117336,miguit,Opel Kadett GT/E 16v,03:21.908,00:00.633,00:00.633
+3,176906,timo.sokero,Fiat 131 Abarth,03:27.025,00:05.750,00:05.117
+4,175470,RazorNova,Opel Kadett GT/E 16v,03:28.524,00:07.249,00:01.499
+5,267829,thekaapo,Opel Kadett GT/E 16v,03:37.974,00:16.699,00:09.450
+
+SS2
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,117336,miguit,Opel Kadett GT/E 16v,03:40.974,00:00.000,00:00.000
+2,176906,timo.sokero,Fiat 131 Abarth,03:51.340,00:10.366,00:10.366
+3,448814,tohtoris,Fiat 131 Abarth,03:53.890,00:12.916,00:02.550
+4,267829,thekaapo,Opel Kadett GT/E 16v,03:56.007,00:15.033,00:02.117
+5,175470,RazorNova,Opel Kadett GT/E 16v,03:56.123,00:15.149,00:00.116
+
+SS3
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,176906,timo.sokero,Fiat 131 Abarth,06:52.650,00:00.000,00:00.000
+2,117336,miguit,Opel Kadett GT/E 16v,07:01.499,00:08.849,00:08.849
+3,448814,tohtoris,Fiat 131 Abarth,07:16.315,00:23.665,00:14.816
+4,267829,thekaapo,Opel Kadett GT/E 16v,07:37.215,00:44.565,00:20.900
+5,175470,RazorNova,Opel Kadett GT/E 16v,07:47.881,00:55.231,00:10.666
+
+SS4
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,117336,miguit,Opel Kadett GT/E 16v,03:44.691,00:00.000,00:00.000
+2,176906,timo.sokero,Fiat 131 Abarth,03:51.007,00:06.316,00:06.316
+3,448814,tohtoris,Fiat 131 Abarth,03:57.973,00:13.282,00:06.966
+4,175470,RazorNova,Opel Kadett GT/E 16v,04:02.356,00:17.665,00:04.383
+5,267829,thekaapo,Opel Kadett GT/E 16v,04:06.423,00:21.732,00:04.067
+
+SS5
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,117336,miguit,Opel Kadett GT/E 16v,03:24.875,00:00.000,00:00.000
+2,176906,timo.sokero,Fiat 131 Abarth,03:28.458,00:03.583,00:03.583
+3,448814,tohtoris,Fiat 131 Abarth,03:34.558,00:09.683,00:06.100
+4,175470,RazorNova,Opel Kadett GT/E 16v,03:40.174,00:15.299,00:05.616
+5,267829,thekaapo,Opel Kadett GT/E 16v,03:42.491,00:17.616,00:02.317
+
+SS6
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,117336,miguit,Opel Kadett GT/E 16v,06:29.817,00:00.000,00:00.000
+2,448814,tohtoris,Fiat 131 Abarth,06:42.583,00:12.766,00:12.766
+3,176906,timo.sokero,Fiat 131 Abarth,06:44.467,00:14.650,00:01.884
+4,267829,thekaapo,Opel Kadett GT/E 16v,06:59.516,00:29.699,00:15.049
+5,175470,RazorNova,Opel Kadett GT/E 16v,07:15.465,00:45.648,00:15.949
+
+SS7
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,117336,miguit,Opel Kadett GT/E 16v,02:53.126,00:00.000,00:00.000
+2,267829,thekaapo,Opel Kadett GT/E 16v,02:59.092,00:05.966,00:05.966
+3,175470,RazorNova,Opel Kadett GT/E 16v,03:00.676,00:07.550,00:01.584
+4,176906,timo.sokero,Fiat 131 Abarth,03:01.926,00:08.800,00:01.250
+5,448814,tohtoris,Fiat 131 Abarth,03:04.425,00:11.299,00:02.499
+
+SS8
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,176906,timo.sokero,Fiat 131 Abarth,05:02.987,00:00.000,00:00.000
+2,117336,miguit,Opel Kadett GT/E 16v,05:17.653,00:14.666,00:14.666
+3,175470,RazorNova,Opel Kadett GT/E 16v,05:17.837,00:14.850,00:00.184
+4,267829,thekaapo,Opel Kadett GT/E 16v,05:26.253,00:23.266,00:08.416
+5,448814,tohtoris,Fiat 131 Abarth,05:46.570,00:43.583,00:20.317
+
+SS9
+Stage
+Pos, PlayerID, Name, Vehicle, Time, Diff 1st, Diff Prev
+1,117336,miguit,Opel Kadett GT/E 16v,07:45.998,00:00.000,00:00.000
+2,176906,timo.sokero,Fiat 131 Abarth,07:51.514,00:05.516,00:05.516
+3,448814,tohtoris,Fiat 131 Abarth,08:02.080,00:16.082,00:10.566
+4,267829,thekaapo,Opel Kadett GT/E 16v,08:05.213,00:19.215,00:03.133
+5,175470,RazorNova,Opel Kadett GT/E 16v,08:09.413,00:23.415,00:04.200
